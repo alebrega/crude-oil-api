@@ -1,5 +1,5 @@
-# crude-oil-api
-Fetch the latest Crude Oil price using API (Python, PHP, Ruby, Node, Javascript),
+# Oil Price API | JSON 
+Fetch the latest Crude Oil price using API (Python, PHP, Ruby, Node, Javascript). WTI Crude oil and Brent crude oil rates.
 
 # Commodities-Api JSON API
 
